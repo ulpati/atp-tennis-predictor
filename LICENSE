@@ -1,0 +1,97 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+Copyright (c) 2025 ulpati
+
+================================================================================
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+To view a full copy of this license, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+================================================================================
+
+YOU ARE FREE TO:
+
+  • Share — copy and redistribute the material in any medium or format
+  • Adapt — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+================================================================================
+
+UNDER THE FOLLOWING TERMS:
+
+  • Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your use.
+
+  • NonCommercial — You may not use the material for commercial purposes.
+    Commercial purposes means primarily intended for or directed toward commercial
+    advantage or monetary compensation.
+
+  • ShareAlike — If you remix, transform, or build upon the material, you must
+    distribute your contributions under the same license as the original.
+
+  • No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license permits.
+
+================================================================================
+
+NOTICES:
+
+You do not have to comply with the license for elements of the material in the
+public domain or where your use is permitted by an applicable exception or
+limitation.
+
+No warranties are given. The license may not give you all of the permissions
+necessary for your intended use. For example, other rights such as publicity,
+privacy, or moral rights may limit how you use the material.
+
+================================================================================
+
+DISCLAIMER:
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+DATA ATTRIBUTION NOTICE
+
+================================================================================
+
+This software utilizes ATP tennis match data from Jeff Sackmann's repository,
+which is separately licensed under CC BY-NC-SA 4.0.
+
+Data Source:
+  Tennis databases, files, and algorithms by Jeff Sackmann / Tennis Abstract
+  Website: http://www.tennisabstract.com/
+  License: CC BY-NC-SA 4.0 International
+  Copyright: © Jeff Sackmann / Tennis Abstract
+  The original JeffSackmann/tennis_atp repository is no longer online; the
+  data is downloaded from a public fork at a pinned commit (see README.md).
+
+REQUIRED ATTRIBUTION FOR ATP DATA:
+
+When using this software, you must provide appropriate attribution to the
+original data source. Suggested citation:
+
+  Sackmann, J. (2026). ATP Tennis Rankings, Results, and Stats [Data set].
+  Tennis Abstract. http://www.tennisabstract.com/
+
+ATTENTION:
+- Both this software and the ATP data require attribution
+- Both are licensed under CC BY-NC-SA 4.0 for consistency
+- Commercial use of either is prohibited without explicit permission
+- Derivative works must be shared under the same license terms
+
+Citation metadata for this software and the data is in CITATION.cff.
+
+================================================================================

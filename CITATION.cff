@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the ATP data it is built on."
+title: "ATP Tennis Match Predictor"
+version: 1.0.0
+date-released: 2026-10-04
+authors:
+  - alias: ulpati
+repository-code: "https://github.com/ulpati/atp-tennis-predictor"
+license: CC-BY-NC-SA-4.0
+keywords: [tennis, ATP, XGBoost, Elo, machine learning]
+references:
+  - type: data
+    title: "ATP Tennis Rankings, Results, and Stats"
+    authors:
+      - family-names: Sackmann
+        given-names: Jeff
+    publisher:
+      name: Tennis Abstract
+    url: "http://www.tennisabstract.com/"
+    license: CC-BY-NC-SA-4.0
